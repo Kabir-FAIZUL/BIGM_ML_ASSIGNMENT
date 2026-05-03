@@ -1,4 +1,4 @@
-Assignment dataset file: «QSAR_Fish_Toxicity_ML_Assignment_Dataset_Kabir_Faizul.CSV» file provided by BIGM with the following varibale:
+Assignment dataset file: «QSAR_Fish_Toxicity_ML_Assignment_Dataset_Kabir_Faizul.csv» file provided by BIGM with the following varibale:
 
 **Problem 2: Regression Problem**
 The QSAR (Quantitative Structure–Activity Relationship) Fish Toxicity dataset is designed to develop regression models predicting acute aquatic toxicity (LC50) of chemicals toward the fathead minnow (Pimephales promelas). It comprises 908 chemical compounds, each characterized by six molecular descriptors, with the target variable being the LC50 value, expressed as –log(mol/L). 
